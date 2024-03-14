@@ -33,43 +33,85 @@
   [],
   "Skin":
   [
-    {
+     {
       "id":1,
+      "name_skin":"Skibidi Toilet Tv Man Boss Titan",
+      "skin_url":"https://minecraft.novaskin.me/skin/6383754564.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/8TwLeAPbP0Ye5FzggWwDRy4CebJhUZSTgwWtT5tQruTOwuB10mRkDmoQSL0WO-LJryHHeNMdV9sQZtmmdgWzS36omr0qeZXT7g",
+      "download_skin":"https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/Skibidi%20Toilet%20Tv%20Man%20Boss%20Titan.mcpack"
+    },
+    {
+      "id":2,
+      "name_skin":"Skibidi Toilet Titan Tv Man",
+      "skin_url":"https://minecraft.novaskin.me/skin/6404983494.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/GcUsY8ihMKgeCU37u8_jIgIABLWXb34wGEt1Gpomnl5bon6dMHztXmFTs2zprb_EMhX2RKm8nowq32djNkg5V5ODLbjbehSOGg",
+      "download_skin":"https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/skibidi%20toilet%20titan%20tv%20man.mcpack"
+    },
+    {
+      "id":3,
+      "name_skin":"Upgraded Titan TV Man",
+      "skin_url":"https://minecraft.novaskin.me/skin/6752763056.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/DhsghsSi4SLcGDU65psrabYm8KnpPdhTq3zLHchFLoU8WFR6FoAkXX9T3XbRsSOrDVG63mdQ61tCHNsAb21i_jMJH5jbDQxhM1BH",
+      "download_skin":"https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/Upgraded%20Titan%20TV%20Man.mcpack"
+    },
+    {
+      "id":4,
+      "name_skin":"Upgraded Titan TV Man 2",
+      "skin_url":"https://minecraft.novaskin.me/skin/6426974035.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/30Ccfispy3qOuR9PGrZpgFALlrqivm3HvcqAHJyTc3V0KJ6DcuBJep9K50tsqZ9-43__u2ngvk7I63uXAPYAMYpeO2NyzYcrYLfK",
+      "download_skin":"https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/upgraded%20titan%20TV%20man%202.mcpack"
+    },
+    {
+      "id":5,
+      "name_skin":"Titan TV Man",
+      "skin_url":"https://minecraft.novaskin.me/skin/6433653332.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/n77m55upGD47OD2LiJx9t6b27upNnFCJ7uFjvfup6e9x_NKOxP6LoGBvEgwNnYOrs1jB6h0I2UUvwv9gIWYaD0WaXxHpnP7SRs0",
+      "download_skin":"https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/Titan%20TV%20Man.mcpack"
+    },
+    {
+      "id":6,
+      "name_skin":"Red Titan Tv Man Upgrade 3.0",
+      "skin_url":"https://minecraft.novaskin.me/skin/6849543439.png",
+      "view_skin":"https://lh3.bunny.novaskin.me/K1GigmjzQvOPzPcsaigKzSw9_9RwwOWFPyi7NwnklxfRptn0z6gHaHFKa8oRk672LQO0vz_nzgoA0cgVUcLejtEWO7n40xTpBA",
+      "download_skin":"https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/red%20titan%20tv%20man%20upgrade%203.0.mcpack"
+    },
+    {
+      "id":10,
       "name_skin":"Drillman",
       "skin_url":"https://minecraft.novaskin.me/skin/6939703461.png",
       "view_skin":"https://lh3.bunny.novaskin.me/AsDvxutGXzzzy4SkeMvCNndJjQ1j2GlXMq8dM8Okm78HcfEC6lvUOFsT79b0dxbAB05waBbEsx-5bHXi9LibCH-ZI0zKNu5Wys0",
       "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman1.mcpack"
     },
     {
-      "id":2,
+      "id":11,
       "name_skin":"Titan Drillman",
       "skin_url":"https://minecraft.novaskin.me/skin/6874403275.png",
       "view_skin":"https://lh3.bunny.novaskin.me/0hwB7TkE9LtnvpeiMUjwK_eXdTo-Io7IR781Ni3fnZsAiEl81dXr4wgvTSMkty9YwCxyiZkFNmeTxVdrISVgWNYjmcJ45rMHGA",
       "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman2.mcpack"
     },
     {
-      "id":3,
+      "id":12,
       "name_skin":"Titan Drillman 2",
       "skin_url":"https://minecraft.novaskin.me/skin/6835953482.png",
       "view_skin":"https://lh3.bunny.novaskin.me/EwlZx1Z44GSTATTQeqS6c9jw8M7AmcVmKtBrmYKHhK3wxqcqmEhGpDr0fJDRrPcSsF4hk8wyKNSBySXSD-e5AHh0Xf2Opso6EW0",
       "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman3.mcpack"
     },
     {
-      "id":4,
+      "id":13,
       "name_skin":"Drillman Black",
       "skin_url":"https://minecraft.novaskin.me/skin/5990843138.png",
       "view_skin":"https://lh3.bunny.novaskin.me/pa60kExUgLQBlewlFISiVoqRPWekN30Vy7sXHvOqt34lG9WX7bUgAtC6Knvh4Y5tSKJcGD_RGoeYD6CWvlG-1QywIjt85D585Vk",
       "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman4.mcpack"
     },
     {
-      "id":5,
+      "id":14,
       "name_skin":"Drillman",
       "skin_url":"https://minecraft.novaskin.me/skin/5812407536451584.png",
       "view_skin":"https://lh3.bunny.novaskin.me/rsJKUW6vtwS2aX4ovOhySaeAsWSsVY2mTKjNHotuBbP3LdACVo-OKtxyTRlvM98CopbGBl3iXahWlv_8SoswloI",
       "download_skin":"https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/drillman5.mcpack"
     },
     {
-      "id":6,
+      "id":15,
       "name_skin":"Drillman",
       "skin_url":"https://minecraft.novaskin.me/skin/10081077.png",
       "view_skin":"https://lh3.bunny.novaskin.me/u5K2JiayIlMyTRK3PNZbMt4nKnGQ4itc72fPJvEub-ojDjnm9uR2T5ohEqzMmTBXFtTnaAF00h2EOc0PhmEQ5g",
@@ -80,7 +122,25 @@
   "Addons":
   [
     {
-      "id": 1,
+      "id":1,
+      "name_add": "Titan TV Man Addon",
+      "add_url": "https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/Skibidi-Toilet-Titan-TV-Man-Addon-MCPE-1.20.mcaddon",
+      "addB_url": "https://github.com",
+      "addR_url": "https://github.com",
+      "view_add": "https://www.9minecraft.net/wp-content/uploads/2023/07/Skibidi-Toilet-Titan-TV-Man-Addon-MCPE-Thumbnail.png",
+      "des_add" : "file:///android_asset/addon1.html"
+    },
+    {
+      "id":2,
+      "name_add": "UPGRADED TITAN CAMERA MAN ADD-ON",
+      "add_url": "https://github.com/taqwim36/Titan-Tv-Mod-MCPE/raw/main/Upgraded_Cameraman_Titan_by_KrishGamecraft__1690611276075.mcaddon",
+      "addB_url": "https://github.com",
+      "addR_url": "https://github.com",
+      "view_add": "https://i.ytimg.com/vi/IwjAWDi-pR8/maxresdefault.jpg",
+      "des_add" : "file:///android_asset/addon1.html"
+    },
+    {
+      "id":3,
       "name_add": "Toilet Addon Multiverse",
       "add_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/addon1.mcaddon",
       "addB_url": "https://github.com",
@@ -92,7 +152,14 @@
   "Maps":
   [
     {
-      "id": 1,
+      "id":1,
+      "name_map": "Poppy Map Playtime",
+      "view_map": "https://api.mcpedl.com/storage/submissions/130851/images/poppy-playtime_7.png",
+      "map_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/maps1.mcworld",
+      "des_map": "file:///android_asset/maps1.html"
+    },
+    {
+      "id":2,
       "name_map": "Poppy Map Playtime",
       "view_map": "https://api.mcpedl.com/storage/submissions/130851/images/poppy-playtime_7.png",
       "map_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/maps1.mcworld",
