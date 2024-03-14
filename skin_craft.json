@@ -128,7 +128,7 @@
       "addB_url": "https://github.com",
       "addR_url": "https://github.com",
       "view_add": "https://www.9minecraft.net/wp-content/uploads/2023/07/Skibidi-Toilet-Titan-TV-Man-Addon-MCPE-Thumbnail.png",
-      "des_add" : "file:///android_asset/addon1.html"
+      "des_add" : "file:///android_asset/install_add.html"
     },
     {
       "id":2,
@@ -137,7 +137,7 @@
       "addB_url": "https://github.com",
       "addR_url": "https://github.com",
       "view_add": "https://i.ytimg.com/vi/IwjAWDi-pR8/maxresdefault.jpg",
-      "des_add" : "file:///android_asset/addon1.html"
+      "des_add" : "file:///android_asset/install_add.html"
     },
     {
       "id":3,
@@ -146,7 +146,7 @@
       "addB_url": "https://github.com",
       "addR_url": "https://github.com",
       "view_add": "https://api.mcpedl.com/storage/submissions/188335/images/skibidi-toilet-vs-cameraman-addon_9.png",
-      "des_add" : "file:///android_asset/addon1.html"
+      "des_add" : "file:///android_asset/install_add.html"
     }
   ],
   "Maps":
@@ -156,14 +156,14 @@
       "name_map": "Poppy Map Playtime",
       "view_map": "https://api.mcpedl.com/storage/submissions/130851/images/poppy-playtime_7.png",
       "map_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/maps1.mcworld",
-      "des_map": "file:///android_asset/maps1.html"
+      "des_map": "file:///android_asset/install_maps.html"
     },
     {
       "id":2,
       "name_map": "Poppy Map Playtime",
       "view_map": "https://api.mcpedl.com/storage/submissions/130851/images/poppy-playtime_7.png",
       "map_url": "https://raw.githubusercontent.com/taqwim36/Toilet-Multiverse-MCPE/main/maps1.mcworld",
-      "des_map": "file:///android_asset/maps1.html"
+      "des_map": "file:///android_asset/install_maps.html"
     }
   ]
 }
